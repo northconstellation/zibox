@@ -478,7 +478,7 @@ header {
       box-shadow: none;
       left: -10px; }
     header .top-menu-language .dropdown-menu > li > a {
-      padding: 3px 28px;
+      padding: 3px 23.5px 3px 28px;
       font-size: 14px;
       color: #7f7e7c;
       background: transparent; }
