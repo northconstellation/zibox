@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'opensans-regular-webfont';
+    src: url('../fonts/opensans-regular-webfont.eot?') format('eot'),
+    url('../fonts/opensans-regular-webfont.woff') format('woff'),
+    url('../fonts/opensans-regular-webfont.ttf')  format('truetype'),
+    url('../fonts/opensans-regular-webfont.svg#opensans-regular-webfont') format('svg');
+}
+@font-face {
+    font-family: 'opensans-bold-webfont';
+    src: url('../fonts/opensans-bold-webfont.eot?') format('eot'),
+    url('../fonts/opensans-bold-webfont.woff') format('woff'),
+    url('../fonts/opensans-bold-webfont.ttf')  format('truetype'),
+    url('../fonts/opensans-bold-webfont.svg#opensans-bold-webfont') format('svg');
+}
